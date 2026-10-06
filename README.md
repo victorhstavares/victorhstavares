@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou Victor Tavares 👋</h1>
 
-<!--
-**victorhstavares/victorhstavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Developer;PHP+%7C+Symfony+%7C+React+%7C+React+Native;AI+%26+Prompt+Engineering;LLMs+%7C+MCP+%7C+Agents+%7C+Skills"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  Desenvolvedor Full Stack com experiência em sistemas corporativos, plataformas SaaS web/mobile
+  e aplicações de grande porte.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  💻 PHP • Symfony • Laravel • React • React Native • Node.js • Python
+  <br>
+  🤖 AI • Prompt Engineering • LLMs • MCP • Agents • Skills
+</p>
