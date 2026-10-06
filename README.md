@@ -19,3 +19,18 @@
   <br>
   🤖 AI • Prompt Engineering • LLMs • MCP • Agents • Skills
 </p>
+
+<br>
+
+## 👨‍💻 Sobre mim
+
+Sou Desenvolvedor Full Stack com experiência em sistemas corporativos, plataformas SaaS web/mobile, aplicações legadas de grande porte e sistemas com regras de negócio complexas.
+
+- 🔭 Atuação com **PHP, Symfony, Laravel, React, React Native, Node.js e Python**
+- 🗄️ Experiência com **MySQL, PostgreSQL, MongoDB e Redis**
+- 🐳 Vivência com **Docker, CI/CD, filas, APIs e integrações externas**
+- 🧪 Experiência com **PHPUnit, Playwright, PHPStan e code review**
+- 🤖 Aplicação de **Inteligência Artificial no desenvolvimento de software**
+- 🧠 Experiência com **Prompt Engineering, LLMs, MCP, Agents, Skills e Rules**
+- ⚡ Uso de **Cursor, Claude Code e Playwright MCP** para desenvolvimento, revisão, automação e validação de interfaces
+- 🚀 Interesse constante em arquitetura, performance, automação e novas tecnologias
