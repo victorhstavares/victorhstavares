@@ -53,6 +53,32 @@ Sou Desenvolvedor Full Stack com experiência em sistemas corporativos, platafor
 
 <br>
 
+## 🤖 AI & Prompt Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MCP-5A67D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Skills-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Rules-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Playwright_MCP-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
+
+Utilizo Inteligência Artificial como parte do fluxo de desenvolvimento de software, aplicando **LLMs, Prompt Engineering, MCPs, Agents, Skills e Rules** para apoiar desenvolvimento, análise técnica, geração e revisão de código, automação de tarefas e validação de interfaces.
+
+Também utilizo ferramentas como **Cursor e Claude Code** no dia a dia, buscando integrar IA ao processo de engenharia de software de forma prática e produtiva.
+
+
+<br>
+
 ## 🧰 Tecnologias & Ferramentas
 
 ### ⚙️ Backend
@@ -110,35 +136,6 @@ Sou Desenvolvedor Full Stack com experiência em sistemas corporativos, platafor
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/PHPStan-4F5B93?style=for-the-badge&logo=php&logoColor=white" />
 </p>
-
-
-
-<br>
-
-## 🤖 AI & Prompt Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/MCP-5A67D8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Skills-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Rules-0891B2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Playwright_MCP-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-</p>
-
-Utilizo Inteligência Artificial como parte do fluxo de desenvolvimento de software, aplicando **LLMs, Prompt Engineering, MCPs, Agents, Skills e Rules** para apoiar desenvolvimento, análise técnica, geração e revisão de código, automação de tarefas e validação de interfaces.
-
-Também utilizo ferramentas como **Cursor e Claude Code** no dia a dia, buscando integrar IA ao processo de engenharia de software de forma prática e produtiva.
-
-
 
 
 <br>
